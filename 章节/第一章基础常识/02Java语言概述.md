@@ -27,4 +27,4 @@ J2ME(java 2 platform micro edition) 小型版
 
 
 # 思维导图
-![](../../imgs/chapter01/02Java语言概述.png)
+![](../../imgs/chapter01/Java语言概述.png)

@@ -17,4 +17,4 @@
 - 多行注释 “/** */”
 
 # 思维导图
-![](../../imgs/chapter01/04HelloWorld.png)
+![](../../imgs/chapter01/HelloWorld.png)

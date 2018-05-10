@@ -30,4 +30,4 @@
 - 输入javac回车
 
 # 思维导图
-![](../../imgs/chapter01/03java环境搭建.png)
+![](../../imgs/chapter01/Java环境搭建.png)
